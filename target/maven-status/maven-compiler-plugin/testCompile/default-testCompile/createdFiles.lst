@@ -1,0 +1,3 @@
+com\rimac\runners\Runner.class
+com\rimac\stepdefinitions\CasosSteps.class
+com\rimac\Config\Hook.class
